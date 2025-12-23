@@ -4,7 +4,7 @@
 
 Pygame版 ワープするスライム
 
-https://sueyoshiryosuke.github.io/github-page_test/index2.html
+https://sueyoshiryosuke.github.io/github-page_test/pygbag-test
 
 数秒待って画面をクリックすると、真っ黒の画面になって、
 
